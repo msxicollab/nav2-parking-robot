@@ -13,7 +13,7 @@
 - SLAM Toolbox
 - robot_localization (EKF)
 - twist_mux / velocity_smoother
-- ESP32 (micro-ROS) ควบคุมเซอร์โวเลี้ยวและมอเตอร์
+- ESP32 (micro-ROS) 
 - YDLIDAR
 
 ## แพ็กเกจที่ต้องติดตั้งเพิ่ม
